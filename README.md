@@ -1,2 +1,14 @@
-# omnilogin-rest-api
-You can connect to API and integrate Omnilogin with other programs.
+Hãy xem xét các tình huống dưới đây:
+
+1. Anh X đẹp trai dùng 1 acc facebook phụ để like hình gái, tránh vợ phát hiện. 1 ngày đẹp trời cả face phụ và face chính bay màu. Cay cú, anh X dùng sim khác, ip khác, trình duyệt khác, tất cả mọi thứ đều khác để tạo thêm vài acc face like hình gái tiếp, đam mê mà. Qua bữa sau đám acc đó lại tiếp tục bay màu, wdf, sao thằng facebook hay vậy? Nó làm như thế nào?
+2. Anh Y là 1 cao thủ mới vào nghề, mấy cái trò fake ip, useragent, browser đối với anh là chuyện nhỏ. Nghĩ mình hoàn toàn vô hình trên internet, anh Y bắt đầu startup đi… scam trên mạng. 1 ngày đẹp trời không nắng, cũng chẳng mưa, hơn chục anh mặc áo grab đi tất xanh ập vào xích anh Y như cán bộ xích Khá Bảnh trong khi anh Y còn chưa biết mình sai chỗ nào. Sao mấy anh grab hay vậy?
+
+Liệu có phải do địa chỉ IP hay không? Câu trả lời là Không, cho dù bạn có thay đổi địa chỉ IP mới thì vẫn không thể thoát khỏi sự theo dõi của các trang mạng xã hội và các website khác. Vì cái giúp họ thu thập được thông tin cá nhân cùng các tài khoản của bạn đó chính là Fingerprint – hay còn gọi là vân tay trình duyệt.
+
+Để ẩn danh nhằm ngăn chặn việc bị thu thập thông tin, nhiều người sẽ lựa chọn sử dụng chế độ Incognito của Chrome và Private Browser của Firefox. Nhưng rất tiếc, chúng vẫn có Fingerprint giống với chế độ bình thường nên bạn vẫn tiếp tục bị theo dõi và chẳng thể tránh được. Xuất phát từ nhu cầu đó, team chúng tôi đã quyết định xây dựng trình duyệt chống phát hiện của riêng mình – Omnilogin và tiến hành thương mại hóa để ai cũng có thể sử dụng sản phẩm này.
+
+Omnilogin được xây dựng dựa trên nhân Chromium để ẩn danh tối đa và với công nghệ kiểm soát Fingerprint giúp bạn có thể quản lý ngay trong profile của mình một cách dễ dàng. Hơn thế nữa, với đội ngũ design xuất sắc của team, Omnilogin đã được thiết kế với giao diện mang phong cách tối giản hiện đại, gần gũi thân thiện và vô cùng dễ dùng, để có thể mang đến sự trải nghiệm tốt nhất cho cả người không nhạy bén hay gặp khó khăn trong việc sử dụng công nghệ.
+
+Khi sử dụng Omnilogin bạn sẽ luôn ẩn danh và đáng tin cậy trong mắt mọi trang web như: Facebook, Google, eBay, Amazon, Etsy … Điều duy nhất bạn cần làm là tạo một profile, Omnilogin sẽ tự động tạo ra một danh tính cho nó bằng cách ẩn thông số máy tính gốc và tạo nhiều thông số máy tính mới cho từng profile. Không những thế, bạn còn có thể thay đổi mọi thông số có thể theo dõi của profile như IP, trình duyệt, WebRTC, font, time zone…
+
+Omnilogin không những hỗ trợ bạn truy cập vào nhiều tài khoản không bị phát hiện, mà còn có thể giúp bạn quản lý hàng trăm, hàng ngàn tài khoản chỉ với những thao tác rất đơn giản đó là tạo Group và thêm Profile. Nếu bạn có thêm bất kỳ câu hỏi, nhận xét hoặc đề xuất nào, vui lòng liên hệ với chúng tôi qua bộ phận hỗ trợ Telegram hoặc Facebook Messenger.
